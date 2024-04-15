@@ -15,6 +15,7 @@ This project consists of the same autoencoder-based model used for binary classi
 ## The models are split into two different folders
 
 The first model is in folder ML_model1 and ML_model2, and each contains their respective dataset, results, and program files.
+There are also visual images that have been generated to better visualize results that can be found in the results folder.
 
 ### Dependencies
 
@@ -33,5 +34,6 @@ This project is licensed under the [MIT License](LICENSE).
 Here is a brief explanation of the items:
 - **src:** folder that contains the source code for python and Jupyter Notebook files
 - **data:** folder that contains the dataset for the respective models
+- **results:** folder that contains the results for the respective models
 - **README.md:** contains most basic information about the project
 - **LICENSE:** Contains license information in regards to the Github repository
