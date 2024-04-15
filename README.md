@@ -31,7 +31,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Program was created in Jupyter Notebook (.ipynb) using Python and was also converted into a traditional (.py) file suited for Spyder Anaconda (Python 3.8).
 
 Here is a brief explanation of the items:
-- **src:** folder that contains the source code C++ script (.cpp)/Java scripy (.java)
-- **data:** folder that contains an example log.txt file generated
+- **src:** folder that contains the source code for python and Jupyter Notebook files
+- **data:** folder that contains the dataset for the respective models
 - **README.md:** contains most basic information about the project
 - **LICENSE:** Contains license information in regards to the Github repository
