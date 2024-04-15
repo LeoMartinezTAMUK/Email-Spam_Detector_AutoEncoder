@@ -1,0 +1,18 @@
+Mean CV Score: 0.8800724637681159 
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.93      0.91      1089
+           1       0.89      0.84      0.86       752
+
+    accuracy                           0.89      1841
+   macro avg       0.89      0.88      0.89      1841
+weighted avg       0.89      0.89      0.89      1841
+
+Confusion Matrix:
+[[1011   78]
+ [ 121  631]] 
+
+AUC Score: 0.8695337074809996
+MCC Score: 0.7752435539651424
