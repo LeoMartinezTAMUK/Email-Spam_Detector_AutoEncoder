@@ -17,6 +17,10 @@ This project consists of the same autoencoder-based model used for binary classi
 The first model is in folder ML_model1 and ML_model2, and each contains their respective dataset, results, and program files.
 There are also visual images that have been generated to better visualize results that can be found in the results folder.
 
+
+![Heatmap for Dataset1](ML_model1/results/training_validation_accuracy_plot.png)
+![Heatmap for Dataset2](ML_model2/results/model2_heatmap.png)
+
 ### Dependencies
 
 - Scikit Learn
