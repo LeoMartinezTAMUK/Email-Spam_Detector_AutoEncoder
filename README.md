@@ -18,7 +18,7 @@ The first model is in folder ML_model1 and ML_model2, and each contains their re
 There are also visual images that have been generated to better visualize results that can be found in the results folder.
 
 
-![Heatmap for Dataset1](ML_model1/results/training_validation_accuracy_plot.png)
+![Heatmap for Dataset1](ML_model1/results/model1_heatmap.png)
 ![Heatmap for Dataset2](ML_model2/results/model2_heatmap.png)
 
 ### Dependencies
